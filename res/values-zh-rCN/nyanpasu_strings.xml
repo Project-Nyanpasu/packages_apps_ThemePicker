@@ -19,4 +19,8 @@
     <string name="wallpaper_color_title">壁纸颜色</string>
     <string name="preset_color_tab">基本颜色</string>
     <string name="color_changed">颜色已更改</string>
+
+    <!-- Font's section -->
+    <string name="font_title">系统字体</string>
+    <string name="font_preview_card_content_description">字体预览</string>
 </resources>
